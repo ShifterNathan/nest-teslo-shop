@@ -4,6 +4,13 @@
 
 # Teslo API
 
+## Technologies used for this project: 
+- Node: https://nodejs.org/en
+- Docker: https://docs.docker.com/get-docker/
+- TablePlus: https://tableplus.com
+
+## Download and run:
+
 1. Clone the project
 2. Execute: 
 ```
